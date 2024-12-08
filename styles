@@ -1,29 +1,8 @@
-/* resets our code, set up our own website*/
-/* astricks is the universal selector */
-/* Is this like <!----> in html */
 
-/* Website Styles */
-* {
-    box-sizing: border-box;
-    font-size: 100%;
-    margin: 0;
-    line-height: 1; 
-    /* border: 1px solid red; */
-}
-img {
-    width: 200px;
-    height: 400px;
-}
-.font > .red {
-    border: 1px;
-}
-
-body {
-    background-color: green;
-}
-
-h1 {
-    color: white;
-    text-align: center;
-}
-
+<head>
+    <style>
+        h1 {
+            color: blue;
+        }
+    </style>
+</head>
