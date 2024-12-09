@@ -1,0 +1,128 @@
+/*This is how you put a CSS comment! It must be held within the */
+/* right below here, the *{} is the selector rule for this page */
+* {
+    /* border: 1px solid red; */
+    font-size: 100%;
+    line-height: 1;
+    margin: 0;
+
+
+}
+body {
+    background-color: rgb(202, 240, 202);
+    color: brown;
+    font-size: 14pt;
+    margin-left: 50px;
+}
+body {
+    background-image: 
+    url("C:\Users\Lenovo\Documents\Website\Images\pink-flowers.zip");
+
+}
+   
+
+h1 {
+    font-style:italic;
+    color: rgb(14, 16, 14);
+    font-size: 36pt;
+    font-weight: 600;
+    text-align: center;
+ 
+}
+
+h2 {
+    font-style: italic;
+    font-size: 30pt;
+    font-weight: 900;
+}
+
+h3 {
+    font-style: italic ;
+    font-size: 24pt;
+    font-weight: 400;
+}
+
+h4 {
+    font-style: italic;
+    font-size: 18pt;
+    font-weight: 300;
+    
+    
+}
+
+h1, h2, h3, h4 {
+    font-weight: normal;
+    text-align: center;
+    text-decoration: underline;
+    margin-bottom: 10px;
+}
+p {
+    line-height: 1.5;
+    margin: 15px;
+}
+
+header,
+section,
+footer {
+    padding: 30px;
+}
+
+h1 {
+   /*  border-bottom: 1px solid black;
+    font-size: 36px; */
+}
+/* The border-bottom is a line, underneath the solid line that underlines the heading. It underlines more than just the text. */
+
+section {
+    border: 3px dashed red;
+}
+
+header {
+    border-top: 5px solid grey;
+    border-bottom: 5px solid grey;
+}
+section {
+    border: 1px solid gainsboro;
+    background-color: rgb(247, 238, 238);
+    margin: 30px;
+    padding: 30px; 
+    
+}
+img {
+    width: 300px;
+}
+
+section {
+    width: 50%;
+    height: 50;
+    
+}
+
+.fingers {
+    background-color: red;
+}
+.fingers {
+    font-size: 24px;
+    color: black;
+}
+
+.big-issue {
+    background-color: purple;
+    color: black;
+    font-size: 24px;
+}
+
+section {
+    border: 3px dashed red;
+}
+
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+div {
+    margin: 0 auto;
+}
+
+
