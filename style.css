@@ -8,18 +8,17 @@
 
 
 }
+
 body {
-    background-color: rgb(202, 240, 202);
-    color: brown;
+    background-image: url(https://wallpaperboat.com/wp-content/uploads/2019/10/free-website-background-07.jpg);
+}
+body {
+    background-color: rgb(234, 218, 234);
+    color: rgb(75, 38, 8);
     font-size: 14pt;
     margin-left: 50px;
 }
-body {
-    background-image: 
-    url("C:\Users\Lenovo\Documents\Website\Images\pink-flowers.zip");
 
-}
-   
 
 h1 {
     font-style:italic;
@@ -99,11 +98,13 @@ section {
 }
 
 .fingers {
-    background-color: red;
+    background-color: rgb(241, 240, 247);
+    
 }
 .fingers {
-    font-size: 24px;
+    font-size: 34px;
     color: black;
+    
 }
 
 .big-issue {
@@ -117,8 +118,18 @@ section {
 }
 
 .container {
-    max-width: 1000px;
-    margin: 0 auto;
+    width: 500px;
+    height: 500px;
+    border: 10px dashed yellow;
+    padding: 25px;
+    background-color: lightblue;
+  
+}
+.container img {
+    max-height: 100%;
+    max-width: 100%;
+
+   
 }
 
 div {
@@ -126,3 +137,33 @@ div {
 }
 
 
+.title {
+    font-size: 40px;
+    font-style: normal;
+}
+
+.box {
+    border: 1px solid black;
+    padding: 30px;
+}
+
+.box p {
+    font-size: 24px;
+}
+
+.box {
+    background-image: url(https://th.bing.com/th/id/OIP.HpE_mnoJUzHaWmlCO4REXwHaEK?rs=1&pid=ImgDetMain);
+    background-repeat: no-repeat;
+    width: 400px;
+    height: 200px;
+    background-size: 100%;
+
+    
+}
+
+.banner {
+    height: 100px;
+    background-image: url(https://pixy.org/src/474/4740812.jpg);
+    background-size: cover;
+    background-position: center;
+}
