@@ -112,6 +112,7 @@ section {
     background-color: purple;
     color: black;
     font-size: 24px;
+    image-orientation: ;
 }
 
 section {
@@ -121,6 +122,9 @@ section {
     margin-left: 2px;
 }
 
+.style {
+    object-position: right;
+}
 
 
 .title {
@@ -157,4 +161,9 @@ section {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
+}
+
+.container3 {
+    text-align: right;
+    margin-left: 3px;
 }
