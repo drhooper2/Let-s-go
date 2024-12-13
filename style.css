@@ -99,7 +99,7 @@ section {
 
 .fingers {
     background-color: rgb(241, 240, 247);
-    
+   
 }
 .fingers {
     font-size: 34px;
@@ -112,7 +112,7 @@ section {
     background-color: purple;
     color: black;
     font-size: 24px;
-    image-orientation: ;
+   
 }
 
 section {
@@ -166,4 +166,9 @@ section {
 .container3 {
     text-align: right;
     margin-left: 3px;
+}
+
+.position {
+    display: flex;
+
 }
