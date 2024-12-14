@@ -31,8 +31,8 @@ h1 {
 
 h2 {
     font-style: italic;
-    font-size: 30pt;
-    font-weight: 900;
+    font-size: 36pt;
+    font-weight: bold;
 }
 
 h3 {
@@ -103,16 +103,16 @@ section {
 }
 .fingers {
     font-size: 34px;
-    color: black;
+    color: white
     background-color:rgb(68, 101, 107)
     
 }
 
 .big-issue {
-    background-color: purple;
-    color: black;
+    background-color: rgb(110, 109, 120);
+    color: white;
     font-size: 24px;
-    image-orientation: ;
+    font-stretch: narrower
 }
 
 section {
@@ -167,6 +167,7 @@ section {
 .container3 {
     text-align: right;
     margin-left: 3px;
+    object-position: top right;
 }
 
 .position {
