@@ -112,31 +112,11 @@ section {
 }
 /* The section above gives me the breakes between the sections. The margin is what gives me the space between sections.The padding gives me the length of the section across the page.*/
 
-.style {
-    object-position: right;
-}
 
-.title {
-    font-size: 40px;
-    font-style: normal; 
-}
 
-.box {
-    border: 1px solid black;
-    padding: 30px;
-}
 
-.box p {
-    font-size: 24px;
-}
 
-.box {
-    background-image: url(https://th.bing.com/th/id/OIP.HpE_mnoJUzHaWmlCO4REXwHaEK?rs=1&pid=ImgDetMain);
-    background-repeat: no-repeat;
-    width: 400px;
-    height: 200px;
-    background-size: 100%;
-}
+
 
 .banner {
     height: 100px;
@@ -160,10 +140,4 @@ section {
     
 }
 
-.position {
-    display: flex;    
-}
 
-.font-size {
-    font-size: 20px;
-}
