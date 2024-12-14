@@ -72,39 +72,26 @@ h1 {
 }
 /* The border-bottom is a line, underneath the solid line that underlines the heading. It underlines more than just the text. */
 
-section {
-    border: 3px dashed red;
-}
+
 
 header {
     border-top: 5px solid grey;
     border-bottom: 5px solid grey;
 }
 section {
-    border: 1px solid gainsboro;
-    background-color: rgb(247, 238, 238);
-    margin: 30px;
-    padding: 30px; 
+    
+    
     
 }
+
 img {
     width: 300px;
 }
 
-section {
-    width: 50%;
-    height: 50;
-    
-}
-
-.fingers {
-    background-color: rgb(241, 240, 247);
-    
-}
 .fingers {
     font-size: 34px;
     color: white
-    background-color:rgb(68, 101, 107)
+    background-color: pink;
     
 }
 
@@ -117,19 +104,21 @@ section {
 
 section {
     border: 3px dashed rgb(148, 73, 239);
-    width: 1090px;
-    background-color: #1c70b0;
+    width: 1000px;
+    background-color: #d1d6d9;
     margin-left: 2px;
+    margin: 30px;
+    padding: 20px; 
 }
+/* The section above gives me the breakes between the sections. The margin is what gives me the space between sections.The padding gives me the length of the section across the page.*/
 
 .style {
     object-position: right;
 }
 
-
 .title {
     font-size: 40px;
-    font-style: normal;
+    font-style: normal; 
 }
 
 .box {
@@ -147,8 +136,6 @@ section {
     width: 400px;
     height: 200px;
     background-size: 100%;
-
-    
 }
 
 .banner {
@@ -166,15 +153,17 @@ section {
 
 .container3 {
     text-align: right;
-    margin-left: 3px;
+    margin-left: 10px;
     object-position: top right;
+    border-radius: 0cap;
+
+    
 }
 
 .position {
     display: flex;    
 }
 
-.class {
-    background-color: pink
-
+.font-size {
+    font-size: 20px;
 }
