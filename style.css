@@ -156,6 +156,7 @@ section {
     background-image: url(https://pixy.org/src/474/4740812.jpg);
     background-size: cover;
     background-position: center;
+    repeat: no-repeat;
 }
 .footer {
     min-height: 100vh;
@@ -170,4 +171,9 @@ section {
 
 .position {
     display: flex;    
+}
+
+.class {
+    background-color: pink
+
 }
